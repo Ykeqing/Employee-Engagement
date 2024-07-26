@@ -2,8 +2,6 @@
 
 ## Introduction
 
-## Problem statement 
-
 ## Datasets 
 
 ## Key Metrics 
